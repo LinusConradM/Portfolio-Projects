@@ -1,9 +1,11 @@
-
 # Data Professional Survey Analysis
 
 ## Overview
 
 This project is a comprehensive analysis of survey data from **630 data professionals** across various roles, countries, and skill levels. Using **Power BI**, we explored key metrics like salary distributions, programming language preferences, and work-life satisfaction to provide actionable insights into the current state of the data profession.
+
+###  Dashboard Snapshop
+![Image](https://github.com/user-attachments/assets/a4c45dda-b1aa-44b1-ae52-04f5542f6e7b)
 
 ### Key Findings
 #### 1. Participant Demographics:
