@@ -19,6 +19,7 @@ This project is a comprehensive analysis of survey data from **630 data professi
 - Data Analyst
 - Database Developer
 - Students/Job Seekers
+    ![Image](https://github.com/user-attachments/assets/04c9eb47-7fb9-4a90-ac2d-594912452ccf)
 
 #### 3. Salary highlights:
 - **Data Architects** reported the highest average salaries, followed by **Data Engineers** and **Data Scientists**.
