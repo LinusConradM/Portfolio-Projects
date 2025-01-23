@@ -29,6 +29,8 @@ This project is a comprehensive analysis of survey data from **630 data professi
  - **Python** is the clear favorite programming language among professionals.
 - Other notable languages include **R**, **JavaScript**, **C/C++**, and **Java**.
 - A smaller percentage of respondents indicated preference for other programming languages.
+    ![Image](https://github.com/user-attachments/assets/ef4e28a1-ea43-431e-978f-8a065229bc56)
+
 #### 5.Work-Life Balance and Salary Satisfaction:
 
 - **Work-Life Balance**: Average score of 5.86/10.
